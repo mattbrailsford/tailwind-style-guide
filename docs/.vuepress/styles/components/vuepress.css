@@ -1,0 +1,12 @@
+.content {
+    max-width: 820px;
+}
+
+.sidebar {
+    background-color: #f5f5f5;
+}
+
+.content table tr,
+.content table td {
+    border: 0;
+}
